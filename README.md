@@ -1,0 +1,2 @@
+# depot
+From Rails book
